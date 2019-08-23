@@ -2,10 +2,11 @@
 
 QuizCap is an Android application that allows a student to takes notes of their typed notes, and automatically create a Quizlet set from those notes.
 It makes use of the following technologies:
+  - Android development
   - REST APIs
   - OAuth2 flow
   - Computer Vision / OCR
-  - Regex algorithms
+  - Regex
 
 # Be aware!
 
