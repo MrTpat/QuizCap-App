@@ -8,6 +8,12 @@ It makes use of the following technologies:
   - Computer Vision / OCR
   - Regex
 
+# QuizCap Web Application
+
+  - Node.JS
+
+View the sample video [here](https://streamable.com/y89t2)
+
 # Be aware!
 
   - The app is not properly scaled yet, so the UI is currently clunky.
